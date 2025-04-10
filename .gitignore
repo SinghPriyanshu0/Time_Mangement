@@ -1,0 +1,10 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# Virtual environment
+venv/
